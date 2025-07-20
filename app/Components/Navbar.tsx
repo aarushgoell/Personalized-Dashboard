@@ -78,14 +78,6 @@ export function Navbar() {
         </nav>
 
         <div className="p-4 border-t border-gray-800">Settings</div>
-        <div className="p-4 border-t border-gray-800 flex items-center gap-3">
-          <img
-            src="https://avatars.githubusercontent.com/u/583231?v=4"
-            className="w-10 h-10 rounded-full"
-            alt="Avatar"
-          />
-          <span>Username</span>
-        </div>
       </aside>
     </div>
   );
